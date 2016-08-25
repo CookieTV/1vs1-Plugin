@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/de/shorty/onevone/OneVOne.java=UTF-8
+encoding//src/de/shorty/onevone/commands/OvO.java=UTF-8
+encoding//src/de/shorty/onevone/kit/Kit.java=UTF-8
+encoding//src/de/shorty/onevone/listener/InventoryClickListener.java=UTF-8
+encoding//src/de/shorty/onevone/manager/BoardManager.java=UTF-8
+encoding//src/de/shorty/onevone/manager/Map.java=UTF-8
+encoding//src/de/shorty/onevone/manager/Match.java=UTF-8
+encoding//src/de/shorty/onevone/manager/Matchmaking.java=UTF-8
+encoding//src/de/shorty/onevone/manager/OvOInventory.java=UTF-8

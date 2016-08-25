@@ -1,0 +1,28 @@
+name: 1vs1
+version: 1.0
+author: Shorty
+main: de.shorty.onevone.OneVOne
+description: Modifyable 1vs1 Plugin, more features coming soon
+
+commands:
+  cookietv:
+    aliases: [ctv]
+    description: you can disable that command in the config
+  1vs1:
+    aliases: [ovo,onevone]
+    description: manage arenas and more
+  stats:
+    aliases: [statistics,statistiken]
+    description: statistics of your games
+  accept:
+    aliases: [a,akzeptieren]
+    description: accept requests
+  deny:
+    aliases: [d,decline,ablehnen]
+    description: decline requests
+  challenge:
+    aliases: [c,duell,duel,d,dual,duall,fight,kampf,herausfordern]
+    description: challenge somebody
+  kit:
+    aliases: [k,mykit,kits,kithelp,showkit]
+    description: shows kits of certain persons
